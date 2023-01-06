@@ -1,7 +1,7 @@
 {
   "name": "websubconverter",
   "version": "0.1.0",
-  "homepage": "https://paradox1st.github.io/websubconverter",
+  "homepage": "https://websubconverter.paradox1st.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "",
